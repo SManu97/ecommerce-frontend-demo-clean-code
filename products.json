@@ -1,0 +1,24 @@
+{
+    "apparel":[
+        {"id": 1, "name": "Shirt", "image": "", "price": 100, "noOfProductsAvailable": 5},
+        {"id": 2, "name": "Top", "image": "", "price": 300, "noOfProductsAvailable": 4},
+        {"id": 3, "name": "Skirt", "image": "", "price": 100, "noOfProductsAvailable": 6},
+        {"id": 4, "name": "Jeans", "image": "", "price": 100, "noOfProductsAvailable": 2},
+        {"id": 5, "name": "Cap", "image": "", "price": 100, "noOfProductsAvailable": 51},
+        {"id": 5, "name": "Scarf", "image": "", "price": 100, "noOfProductsAvailable": 1}
+    ],
+    "accessories":[
+        {"id": 1, "name": "earrings", "image": "", "price": 100, "noOfProductsAvailable": 5},
+        {"id": 2, "name": "sandals", "image": "", "price": 300, "noOfProductsAvailable": 4},
+        {"id": 3, "name": "bracelet", "image": "", "price": 100, "noOfProductsAvailable": 6},
+        {"id": 4, "name": "anklet", "image": "", "price": 100, "noOfProductsAvailable": 2},
+        {"id": 5, "name": "socks", "image": "", "price": 100, "noOfProductsAvailable": 51},
+        {"id": 5, "name": "Scarf", "image": "", "price": 100, "noOfProductsAvailable": 1}
+    ],
+    "bags":[
+        {"id": 1, "name": "tote", "image": "", "price": 100, "noOfProductsAvailable": 5},
+        {"id": 2, "name": "handbag", "image": "", "price": 300, "noOfProductsAvailable": 4},
+        {"id": 3, "name": "duffle", "image": "", "price": 100, "noOfProductsAvailable": 6},
+        {"id": 4, "name": "luggage", "image": "", "price": 100, "noOfProductsAvailable": 2}
+    ]
+}
